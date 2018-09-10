@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: font2;
-    src: url('font/gothamlight.ttf');
+    src: url('font/gothamlight.TTF');
 }
 
 @font-face {
     font-family: font3;
-    src: url('font/gothamMedium.ttf');
+    src: url('font/gothamMedium.TTF');
 }
 
 @font-face {
