@@ -201,7 +201,7 @@ video{
     padding: 0 15px;
 }
 .accordions .accordion .accordion-header+.accordion-body{
-    transition: all .55s ease-in-out 0s;
+    transition: all .7s ease-in-out 0s;
     border: none;
 }
 .accordion-header{
